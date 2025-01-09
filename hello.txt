@@ -1,6 +1,7 @@
 P1: Hello how are you 
 P2: I am doing great
 
+P2: Content on P2 branch
 
 Commit 1 : Hello 
 
